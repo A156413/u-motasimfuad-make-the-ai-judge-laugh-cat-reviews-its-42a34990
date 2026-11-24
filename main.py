@@ -13,7 +13,7 @@ import os
 
 TEXT = (
     "One star. He fills my bowl on time, "
-    "then sits in my sunbeam to eat his dinner "
+    "then sits in my sunbeam to eat dinner "
     "off a table I'm not allowed on. "
     "Great staff, terrible management."
 )
